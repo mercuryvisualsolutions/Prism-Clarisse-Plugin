@@ -1,7 +1,7 @@
 # Prism-Clarisse-Plugin
-> Prism V_1.2 Plugin for Clarisse iFX
-
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+> Prism V_1.2 Plugin for Clarisse iFX
 
 
 
@@ -21,7 +21,6 @@
 
 ## Credits
 [Mercury VFX](https://www.mercuryvfx.com/)
-[Instagram](https://www.instagram.com/mercury_vfx/)
 
 
 ## License
