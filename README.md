@@ -9,7 +9,7 @@
 - Run install_prism.bat as administrator.
 
 
-## Todo:
+## Todo
 - Upgrade Plugin for Prism 1.3.
 
 
