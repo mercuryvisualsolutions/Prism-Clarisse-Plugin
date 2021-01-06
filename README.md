@@ -1,7 +1,7 @@
 # Prism-Clarisse-Plugin
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
 > Prism V_1.2 Plugin for Clarisse iFX
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 
@@ -24,4 +24,4 @@
 
 
 ## License
-This project is released under [MIT license](/LICENSE.md).
+This project is released under [MIT license](https://git.io/JLAfx).
