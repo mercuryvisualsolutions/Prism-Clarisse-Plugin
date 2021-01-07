@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Prism-Clarisse-Plugin
+> Prism V_1.2 Plugin for Clarisse iFX
 
-You can use the [editor on GitHub](https://github.com/mercuryvisualsolutions/Prism-Clarisse-Plugin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation on windows
+- Run install_prism.bat as administrator.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Todo
+- Upgrade Plugin for Prism 1.3.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Contributing
+> feel free to fork this repository and enhance whatever script you want, just show the world how you code, think and do magic with your keyboard.
 
-**Bold** and _Italic_ and `Code` text
+1. Fork it 
+2. Create your feature branch (`git checkout -b feature/xxxxx`)
+3. Commit your changes (`git commit -am 'Add some xxxxx'`)
+4. Push to the branch (`git push origin feature/xxxxx`)
+5. Create a new Pull Request
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Credits
+![Mercury-Vfx-](https://s3-eu-west-1.amazonaws.com/wuzzuf/files/company_logo/Mercury-Vfx-Egypt-14101-1599563545.jpg)
 
-### Jekyll Themes
+[Mercury VFX](https://www.mercuryvfx.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mercuryvisualsolutions/Prism-Clarisse-Plugin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+This project is released under [MIT license](https://git.io/JLAfx).
