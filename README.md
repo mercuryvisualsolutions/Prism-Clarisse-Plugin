@@ -1,4 +1,4 @@
-# Prism-Clarisse-Plugin
+# ![Prism-Clarisse-Plugin](https://mercuryvisualsolutions.github.io/Prism-Clarisse-Plugin/)
 > Prism V_1.2 Plugin for Clarisse iFX
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
